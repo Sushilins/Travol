@@ -1,0 +1,465 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500&family=Poppins:wght@300;400;500&display=swap');
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    text-decoration:none;
+    list-style: none;
+    color:black;
+}
+.chi
+{
+    background-image: url(https://images.pexels.com/photos/4570125/pexels-photo-4570125.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height:100vh;
+}
+.o
+{
+    font-family: 'Barlow', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    color: #fff;
+    margin-bottom: 15px;
+    letter-spacing: 6px;
+}
+.p
+{
+    font-family: 'Poppins', sans-serif;
+    font-size: 75px;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+.oiui
+{
+    color:#FE9836;
+}
+.search
+{
+    height:10vh;
+}
+.hih
+{
+    height:10vh;
+}
+.bof
+{
+    border-right:1px solid rgb(231, 227, 227)!important;
+}
+.whi
+{
+    background:white;
+}
+.btn-secondary
+{
+    background:white!important;
+    border-radius:0 !important;
+    color:black;
+}
+.btn-secondary:hover
+{
+    color:grey;
+}
+.numb
+{
+    width:100%;
+    height:36vh;
+}
+.numb1
+{
+    width:100%;
+    height:36vh;
+}
+.ser
+{
+    position:relative;
+    z-index:999;
+
+}
+.nazi
+{
+    background-color: rgba(255,255,255,0.2);
+}
+.bl
+{
+    color:black;
+    text-decoration: none;
+}
+.bl:hover
+{
+    color:#c25e00;
+}
+.so
+{
+    background:#FE9836;
+    padding:8px 0px;
+    text-align: center;
+    color:rgb(68, 67, 67);
+}
+.stop
+{
+    padding:3px 0px;
+    text-align: center;
+    color:black;
+}
+.stop:hover
+{
+    color:#c25e00;
+}
+.wiiio
+{
+    width:48%;
+}
+.wiio
+{
+    width:40%;
+}
+.oq
+{
+    font-family: 'Barlow', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color:#c25e00;
+    margin-bottom: 15px;
+    letter-spacing: 4px;
+}
+.oqp
+{
+    font-size: 45px;
+    line-height: 1.2em;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color:rgb(59, 59, 59);
+    margin-bottom: 20px;
+}
+.oqpr
+{
+    font-size: 45px;
+    line-height: 1.2em;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color:rgb(59, 59, 59);
+}
+.oiq
+{
+    color:#c25e00
+}
+.her
+{
+    font-family: 'Barlow', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.75em;
+    color: #676977;
+    margin-bottom: 20px;
+}
+.hers
+{
+    font-family: 'Barlow', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.75em;
+    color: #676977;
+}
+.ins
+{
+    height:50%;
+    border-radius: 50%;
+    background:#d86a04;
+    padding:1px !important;
+    padding:1px 6px 3px 6px!important;
+    color:white;
+}
+.hot
+{
+    width:31%!important;
+    height:80%;
+}
+.hotn
+{
+    position:relative;
+    width:100%;
+    z-index: 999;
+}
+.oran
+{
+    position:relative;
+    width:100%;
+    background:#FE9836;
+    height:100%;
+    top:-93%;
+    left:8%;
+}
+.mal1
+{
+    width:752px;
+    height:450px;
+    overflow: hidden;
+}
+.mal1:hover .sr
+{
+    transform:translate(0px,0px)
+}
+.mal
+{
+    width:100%;
+    height:100%;
+    background-image: url(https://duruthemes.com/demo/html/travol/multipage-slider/img/tours/maldives1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition:2s;
+}
+.mal1:hover .mal
+{
+    transform:scale(1.1);
+}
+.ital1
+{
+    width:365px;
+    height:450px;
+    overflow: hidden;
+}
+.ital
+{
+    background-image: url(https://duruthemes.com/demo/html/travol/multipage-slider/img/tours/italy1.jpg);
+    width:100%;
+    height:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition:2s;
+}
+.ital1:hover .ital
+{
+    transform:scale(1.1);
+}
+.border
+{
+    border:1px solid black!important;
+}
+.fra
+{   width:100%;
+    height:100%;
+    transition:2s;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://duruthemes.com/demo/html/travol/multipage-slider/img/tours/france1.jpg);
+
+}
+.gree
+{   width:100%;
+    height:100%;
+    transition:2s;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://duruthemes.com/demo/html/travol/multipage-slider/img/tours/greece1.jpg);
+}
+.cana
+{   width:100%;
+    height:100%;
+    transition:2s;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://duruthemes.com/demo/html/travol/multipage-slider/img/tours/canada1.jpg);
+
+}
+.nams
+{
+    height:200px;
+    overflow: hidden;
+}
+.namsa
+{
+    height:200px;
+    overflow: hidden;
+}
+.namsb
+{
+    height:200px;
+    overflow: hidden;
+}
+.nams:hover .fra
+{
+    transform:scale(1.1);
+}
+.namsa:hover .gree
+{
+    transform:scale(1.1);
+}
+.namsb:hover .cana
+{
+    transform:scale(1.1);
+}
+.snor
+{
+    border-bottom:1px solid rgb(207, 149, 149);
+}
+.sr
+{
+    position:absolute;
+    color:black;
+    width:100%;
+    height:23%;
+    background-color:rgba(245,246,252,0.52);
+    bottom:0px;
+    left:0px;
+    transition:1s;
+    transform:translate(0px,60px);
+    z-index:1;
+}
+.sra
+{
+    position:absolute;
+    color:black;
+    width:100%;
+    height:23%;
+    background-color:rgba(245,246,252,0.52);
+    bottom:0px;
+    left:0px;
+    transition:1s;
+    transform:translate(0px,60px);
+    z-index:2;
+}
+.srb
+{
+    position:absolute;
+    color:black;
+    width:100%;
+    height:52%;
+    background-color:rgba(245,246,252,0.52);
+    bottom:0px;
+    left:0px;
+    transition:1s;
+    transform:translate(0px,60px);
+    z-index:2;
+}
+.src
+{
+    position:absolute;
+    color:black;
+    width:100%;
+    height:52%;
+    background-color:rgba(245,246,252,0.52);
+    bottom:0px;
+    left:0px;
+    transition:1s;
+    transform:translate(0px,60px);
+    z-index:2;
+}
+.srd
+{
+    position:absolute;
+    color:black;
+    width:100%;
+    height:52%;
+    background-color:rgba(245,246,252,0.52);
+    bottom:0px;
+    left:0px;
+    transition:1s;
+    transform:translate(0px,60px);
+    z-index:2;
+}
+.mali1:hover .sr
+{
+    transform:translate(0px,0px);
+}
+.ital1:hover .sra
+{
+    transform:translate(0px,0px);
+}
+.ital1:hover .sra
+{
+    transform:translate(0px,0px);
+}
+.nams:hover .srb
+{
+    transform:translate(0px,0px);
+}
+.namsa:hover .src
+{
+    transform:translate(0px,0px);
+}
+.namsb:hover .srd
+{
+    transform:translate(0px,0px);
+}
+.wyy
+{
+    height:56%;
+    padding: 0px,!important;
+}
+.wyyy
+{
+    height:100%;
+    padding: 0px,!important;
+}
+.wyyy p
+{
+    height:100%;
+    padding: 0px,!important;
+}
+.wyy p
+{
+    font-family: 'Barlow', sans-serif;
+}
+.ugh
+{
+    height:70vh;
+    background-image: url(https://duruthemes.com/demo/html/travol/multipage-slideshow/img/slider/15.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.overlay
+{
+    width:100%;
+    height:100%;
+    background-color: rgba(54, 54, 54, 0.37);
+    color:rgb(255, 255, 255);
+}
+.category
+{
+    width:85%;
+    height:80vh;
+}
+.cate
+{
+    width: 100%;
+    height:90%;
+    overflow:hidden;
+}
+.imagi
+{
+    width:100%;
+    height:100%;
+    transition: 2s;
+
+}
+.imagi:hover
+{
+    transform: scale(1.1);
+}
+.ches
+{
+    font-family: 'Barlow', sans-serif;
+    font-size: 20px;
+    font-weight:500;
+}
+
+video
+{
+    width:100%;
+    height:60vh;
+    object-fit:cover;
+    bottom:100px;
+}
+.alk
+{
+    width:100%;
+}
+.snort
+{
+    margin: 100px 0px!important;
+}

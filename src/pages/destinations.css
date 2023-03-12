@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500&family=Poppins:wght@300;400;500;700&display=swap');
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    text-decoration:none;
+    list-style: none;
+}
+.d
+{
+    color:white;
+    text-decoration: none;
+}
+.d:hover
+{
+    color:rgb(9,230,218);
+}
+.chij
+{
+    background-image: url(https://images.pexels.com/photos/4570125/pexels-photo-4570125.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height:100vh;
+}

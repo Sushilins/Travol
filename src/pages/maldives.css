@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500&family=Poppins:wght@300;400;500&display=swap');
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    text-decoration:none;
+    list-style: none;
+    color:black;
+}
+.paca
+{
+    color:rgb(29, 179, 224);
+    letter-spacing: 3px;
+}
+.pacas
+{
+    color:rgb(29, 179, 224);
+}
+.okk
+{
+    width:50%;
+    margin-left:0px;
+}
+.okkc
+{
+    width:60%;
+    margin-left:0px;
+}
+.wyyyz
+{
+    color:grey;
+}
